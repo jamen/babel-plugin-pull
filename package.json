@@ -1,0 +1,29 @@
+{
+  "name": "babel-plugin-pull",
+  "description": "Transform pipeline operator into pull(...) calls",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jamen/babel-plugin-pull",
+  "author": "Jamen Marz (https://git.io/jamen)",
+  "repository": "jamen/babel-plugin-pull",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "babel",
+    "babel-transform",
+    "babel-plugin",
+    "pull-stream",
+    "functional",
+    "pipe",
+    "operator"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "tape": "^4.6.3"
+  }
+}
