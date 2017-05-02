@@ -1,7 +1,7 @@
 {
   "name": "babel-plugin-pull",
   "description": "Transform pipeline operator into pull(...) calls",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "homepage": "https://github.com/jamen/babel-plugin-pull",
   "author": "Jamen Marz (https://git.io/jamen)",
   "repository": "jamen/babel-plugin-pull",
